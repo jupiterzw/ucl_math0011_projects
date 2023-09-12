@@ -1,5 +1,5 @@
 # UCL MATH0011 Projects
-This repository contains my solutions to a list of Python projects from the [MATH0011 Methods 2](https://www.ucl.ac.uk/maths/sites/maths/files/math0011.pdf) taught by [Dr Matthew Towers](https://www.ucl.ac.uk/~ucahmto/) at UCL in Term 2, 2021.
+This repository contains my solutions to a list of Python projects from [MATH0011 Methods 2](https://www.ucl.ac.uk/maths/sites/maths/files/math0011.pdf) taught by [Dr Matthew Towers](https://www.ucl.ac.uk/~ucahmto/) at UCL in Term 2, 2021.
 
 The solutions uploaded here are merely my own attempts. They are meant to unblock you if you get stuck somewhere. Please do not copy any part of the code as-is (the projects are straightforward if you read the instructions carefully). I highly recommend working through one or more of these interesting projects yourself to gain Python experiences.
 
